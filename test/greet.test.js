@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import greet from "../greet.js";
+import greet from "../functions/greet.js";
 
 describe('greet', function () {
 	it('should return "Hello, Nicholas" when called with "Nicholas"', function () {

@@ -1,5 +1,5 @@
 import assert from "assert";
-import regCheck from "../regCheck.js";
+import regCheck from "../functions/regCheck.js";
 
 describe('regCheck', function () {
 	it('should return "true" when called with "DC 55 YU GP" and "GP"', function () {

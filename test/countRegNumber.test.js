@@ -1,5 +1,5 @@
 import assert from "assert";
-import countRegNumber from "../countRegNumber.js";
+import countRegNumber from "../functions/countRegNumber.js";
 
 describe('countRegNumber', function () {
 	it('should return 1 when called with "CA 123456"', function () {

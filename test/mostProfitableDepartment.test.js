@@ -1,5 +1,5 @@
 import assert from "assert";
-import mostProfitableDepartment from "../mostProfitableDepartment.js";
+import mostProfitableDepartment from "../functions/mostProfitableDepartment.js";
 
 describe('mostProfitableDepartment', function () {
 	var salesData1 = [

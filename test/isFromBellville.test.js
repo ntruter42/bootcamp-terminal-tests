@@ -1,5 +1,5 @@
 import assert from "assert";
-import isFromBellville from "../isFromBellville.js";
+import isFromBellville from "../functions/isFromBellville.js";
 
 describe('isFromBellville', function () {
 	it('should return "true" when called with "CY 123456"', function () {

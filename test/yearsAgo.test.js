@@ -1,5 +1,5 @@
 import assert from "assert";
-import yearsAgo from "../yearsAgo.js";
+import yearsAgo from "../functions/yearsAgo.js";
 
 describe('yearsAgo', function () {
 	it('should return "47" when called with "1976"', function () {

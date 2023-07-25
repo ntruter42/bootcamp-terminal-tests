@@ -1,5 +1,5 @@
 import assert from "assert";
-import totalPhoneBill from "../totalPhoneBill.js";
+import totalPhoneBill from "../functions/totalPhoneBill.js";
 
 describe('totalPhoneBill', function () {
 	it('should return "R7.45" when called with "call, sms, call, sms, sms"', function () {

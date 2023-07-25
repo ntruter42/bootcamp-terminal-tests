@@ -1,5 +1,5 @@
 import assert from "assert";
-import fromWhere from "../fromWhere.js";
+import fromWhere from "../functions/fromWhere.js";
 
 describe('fromWhere', function () {
 	it('should return "Bellville" when called with "CY 567489"', function () {
